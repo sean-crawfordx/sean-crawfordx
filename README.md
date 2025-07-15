@@ -23,7 +23,7 @@ I'm a full-stack developer with a background in running my own business for 21 y
 
 ## 🌱 Currently Learning
 
-- Cybersecurity labs on TryHackMe 🔐  
+- Cybersecurity labs on TryHackMe and HackTheBox meetups 🔐  
 - Social engineering and human hacking 🧠  
 - React Query, Auth0, and full-stack testing 🧪  
 
