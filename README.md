@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Kia ora, I’m Sean
 
-<!--
-**sean-crawfordx/sean-crawfordx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a background in running my own business for 21 years, now diving into tech and cybersecurity.
 
-Here are some ideas to get you started:
+🎓 Graduate of Dev Academy Aotearoa  
+🛠️ Passionate about ethical hacking, human-centered IT, and having a laugh  
+🌊 Based in Titahi Bay, New Zealand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Projects I'm Proud Of
+
+- [**Meowtivation 😺**](https://github.com/sean-crawfordx/meowtivation)  
+  A cat-themed social platform with motivational AI quotes, user authentication, and a full-stack setup.
+
+- [**DreamFest 🎸**](https://github.com/sean-crawfordx/dreamfest)  
+  A music festival planning app using React, Express, Knex, and SQLite3.
+
+- [**Whack-a-Mole 🎯**](https://github.com/sean-crawfordx/whack-a-mole)  
+  A fun browser game built with vanilla JavaScript, HTML, and CSS.
+
+---
+
+## 🌱 Currently Learning
+
+- Cybersecurity labs on TryHackMe 🔐  
+- Social engineering and human hacking 🧠  
+- React Query, Auth0, and full-stack testing 🧪  
+
+---
+
+## 💬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/1seancrawford/)  
+-  
+
+---
+
+## ⚡ Fun Facts
+
+- I do Brazilian jiu-jitsu, strength training, and rock ’n’ roll dancing 🕺  
+- I love fresh air, clean code, and a good Connect Four battle 🎯
