@@ -16,8 +16,8 @@ I'm a full-stack developer with a background in running my own business for 21 y
 - [**DreamFest 🎸**](https://github.com/sean-crawfordx/dreamfest)  
   A music festival planning app using React, Express, Knex, and SQLite3.
 
-- [**Whack-a-Mole 🎯**](https://github.com/sean-crawfordx/whack-a-mole)  
-  A fun browser game built with vanilla JavaScript, HTML, and CSS.
+- [**Butterfly News 🦋**](https://github.com/sean-crawfordx/butterfly-news)  
+  What happens if we change the news
 
 ---
 
