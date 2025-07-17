@@ -13,11 +13,12 @@ I'm a full-stack developer with a background in running my own business for 21 y
 - [**Meowtivation 😺**](https://github.com/sean-crawfordx/meowtivation)  
   A cat-themed social platform with motivational AI quotes, user authentication, and a full-stack setup.
 
-- [**My Collections **](https://github.com/sean-crawfordx/dreamfest)  
-  A music festival planning app using React, Express, Knex, and SQLite3.
+- - [**My Collections 🗂️**](https://github.com/sean-crawfordx/my-fullstack-collection)  
+  The whole lot — front to back, and maybe sideways. My journey through full-stack dev, one commit at a time.
+
 
 - [**Butterfly News 🦋**](https://github.com/sean-crawfordx/butterfly-news)  
-  What happens if we change the news
+  What happens if we change the news.
 
 ---
 
