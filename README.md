@@ -13,7 +13,7 @@ I'm a full-stack developer with a background in running my own business for 21 y
 - [**Meowtivation 😺**](https://github.com/sean-crawfordx/meowtivation)  
   A cat-themed social platform with motivational AI quotes, user authentication, and a full-stack setup.
 
-- [**DreamFest 🎸**](https://github.com/sean-crawfordx/dreamfest)  
+- [**My Collections **](https://github.com/sean-crawfordx/dreamfest)  
   A music festival planning app using React, Express, Knex, and SQLite3.
 
 - [**Butterfly News 🦋**](https://github.com/sean-crawfordx/butterfly-news)  
