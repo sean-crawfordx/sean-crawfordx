@@ -33,7 +33,8 @@ I'm a full-stack developer with a background in running my own business for 21 y
 ## 💬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/1seancrawford/)  
--  
+
+- [Sean Crawford CV](https://drive.google.com/file/d/1kQXeya4sYygrkMbcEiBR-6UVsJHq_3Z-/view?usp=sharing)
 
 ---
 
