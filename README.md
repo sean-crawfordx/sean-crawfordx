@@ -1,4 +1,4 @@
-# 👋 Kia ora, I’m Sean
+# 👋 Hi, I’m Sean
 
 I'm a full-stack developer with a background in running my own business for 21 years, now diving into tech and cybersecurity.
 
@@ -13,12 +13,12 @@ I'm a full-stack developer with a background in running my own business for 21 y
 - [**Meowtivation 😺**](https://github.com/sean-crawfordx/meowtivation)  
   A cat-themed social platform with motivational AI quotes, user authentication, and a full-stack setup.
 
-- - [**My Collections 🗂️**](https://github.com/sean-crawfordx/my-fullstack-collection)  
+- [**My Collections 🗂️**](https://github.com/sean-crawfordx/my-fullstack-collection)  
   The whole lot — front to back, and maybe sideways. My journey through full-stack dev, one commit at a time.
 
 
 - [**Butterfly News 🦋**](https://github.com/sean-crawfordx/butterfly-news)  
-  What happens if we change the news.
+  Let's go back in time and change the past, then read about in in the news.
 
 ---
 
