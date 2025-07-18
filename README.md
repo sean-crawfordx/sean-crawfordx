@@ -18,7 +18,7 @@ I'm a full-stack developer with a background in running my own business for 21 y
 
 
 - [**Butterfly News 🦋**](https://github.com/sean-crawfordx/butterfly-news)  
-  Let's go back in time and change the past, then read about in in the news.
+  Let's go back in time and change the past, then read about it in the news.
 
 ---
 
