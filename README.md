@@ -4,7 +4,7 @@ I'm a full-stack developer with a background in running my own business for 21 y
 
 🎓 Graduate of Dev Academy Aotearoa  
 🛠️ Passionate about ethical hacking, human-centered IT, and having a laugh  
-🌊 Based in Titahi Bay, New Zealand
+🌿 Based in Wellington, New Zealand
 
 ---
 
